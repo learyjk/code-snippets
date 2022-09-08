@@ -1,0 +1,17 @@
+{
+  "name": "code-snippets",
+  "version": "1.0.0",
+  "description": "Web Bae Code Snippets",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "serve": "serve"
+  },
+  "author": "Keegan Leary",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.0.1",
+    "typescript": "^4.8.2"
+  }
+}
